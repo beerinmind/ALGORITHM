@@ -1,4 +1,4 @@
-/* C program for Merge Sort
+/* C program for Merg
 #include<stdlib.h> 
 #include<stdio.h>   
 // Merges two subarrays of arr[]. 
