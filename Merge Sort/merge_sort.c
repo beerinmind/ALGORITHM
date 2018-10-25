@@ -1,4 +1,4 @@
-/* C
+
 #include<stdlib.h> 
 #include<stdio.h>   
 // Merges two subarrays of arr[]. 
